@@ -3,7 +3,7 @@
 ## I'm a pleno developer in C# and
 ### student of **JAVA**, **Python**, **Node.js**, **Angular**, **React**, and **TypeScript** 👨‍💻
 
-- 📚 **Estudante no último semestre de Ciências da Computação**.
+- 📚 **Formado em Ciências da Computação**.
 - 🥇 **Desenvolvedor** na **PAYNET CAPTURA DE TRANSAÇÕES LTDA**.
 - 👨‍💻 **Estudando Front-End e Back-End Full Stack**.
 - 📫 Contate-me no e-mail: [gabriel.santos.brandao03@gmail.com](mailto:gabriel.santos.brandao03@gmail.com).
